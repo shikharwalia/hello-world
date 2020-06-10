@@ -1,5 +1,5 @@
 # hello-world
-<1doctype html>
+<!doctype html>
 <html>
   <head>
     <title>Hello World Program</title>
